@@ -1,3 +1,18 @@
 /* =============
     Footer
 ============= */
+#footer{
+    
+    display: grid;
+    grid-template-columns: 20px auto 20px;
+    grid-area: footer;
+
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+
+    h5{
+        text-align: center;
+        color: white;
+    }
+    }

@@ -1,0 +1,23 @@
+/* =============
+    Section 2
+============= */
+#section-2 {
+    
+    display: grid;
+    grid-template-columns: 20px auto 20px;
+    grid-area: section-2;
+    
+
+    h1 {
+        text-align: center;
+
+    }
+
+    p {
+        text-align: center;
+
+    }
+
+}
+
+
